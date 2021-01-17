@@ -1,5 +1,8 @@
 # pet-circle-ecom
 
+## Project Link (Github Pages URL)
+https://fadiwahba.github.io/pet-ecom/
+
 ## Project setup
 ```
 npm install
